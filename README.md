@@ -4,3 +4,4 @@ A full featured real estate website. that let user find properties in the prefer
 LF Real Estate is ready to make your real estate website faster, safer and better!
 # Featues
 . There are realtors
+.You can by your house/flat
